@@ -46,11 +46,35 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
     http://localhost:8080/api/products
     ```
 
+
 3. interactua con las tarjetas y el carrito para  guardar elementos , modificar la cantidad , o eliminar.
-4. ![carrito vacio al iniciar la app](animatedCollection/src/public/img/carrito_vacio.png)5.  al iniciar el carrito esta en 0
-6. ![card en 0 ](animatedCollection/src/public/img/card_elemetos.png) aumentando las cantidades y presionando add to cart el producto se agrega al cart
-7. ![carrtio con items ](animatedCollection/src/public/img/carrito_con_items.png) las cantidades se reflejaran en el carrito, haciendo click , se puede ver todos los items
-8. ![modal con itesms ](animatedCollection/src/public/img/carrito_con_items.png) las cantidades se reflejaran en el carrito , se puede eliminar de a uno o vaciar todo el carrito
+
+
+4. al iniciar el carrito esta en 0
+
+   ![carrito vacio al iniciar la app](animatedCollection/src/public/img/carrito_vacio.png)
+   
+5. aumentando las cantidades y presionando add to cart el producto se agrega al cart
+  ### Importante!!! En caso de ingresar al carrito un artiuclo repetido , con el mismo ID , solo se modificara la cantidad ingresada en el carrito remplazandos las actuales, no duplica o suma las cantidades, 
+   
+  ![card en 0 ](animatedCollection/src/public/img/card_elemetos.png)
+
+6. las cantidades se reflejaran en el carrito, haciendo click , se puede ver todos los items
+
+  ![carrtio con items ](animatedCollection/src/public/img/carrito_con_items.png)
+
+7. las cantidades se reflejaran en el carrito , se puede eliminar de a uno o vaciar todo el carrito
+ #### el boton comprar no esta habilitado
+
+   
+  ![modal con itesms ](animatedCollection/src/public/img/modal.png) 
+
+8.Pagination
+## prosionanado se prodra cambiar de pagina ,el default de items es 5 , se puede modificar en productos por pagina , para mostar los valores asc o dsc se debe ingresar el -1 o 1 y para el stock un valor numerico , para obtener resultado presionar aplicar
+![pagination ](animatedCollection/src/public/img/pagination.png) 
+
+
+
    
 
 

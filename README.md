@@ -46,7 +46,9 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
     http://localhost:8080/api/products
     ```
 
-3. Utiliza el formulario para ingresar nuevos productos. Los productos ingresados se mostrarán en tiempo real a todos los clientes conectados.
+3. interactua con las tarjetas y el carrito para  guardar elementos , modificar la cantidad , o eliminar.
+4. ![carrito vacio al iniciar la app](/img/icons8-homero-simpson-30.svg)
+
 
 
 

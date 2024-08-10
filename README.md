@@ -64,6 +64,7 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
   ![carrtio con items ](animatedCollection/src/public/img/carrito_con_items.png)
 
 7. las cantidades se reflejaran en el carrito , se puede eliminar de a uno o vaciar todo el carrito
+ #### el boton comprar no esta habilitado
 
    
   ![modal con itesms ](animatedCollection/src/public/img/modal.png) 

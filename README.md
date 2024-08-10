@@ -47,7 +47,7 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
     ```
 
 3. interactua con las tarjetas y el carrito para  guardar elementos , modificar la cantidad , o eliminar.
-4. ![carrito vacio al iniciar la app](./src/public/img/icons8-homero-simpson-30.svg)
+4. ![carrito vacio al iniciar la app](src/public/img/icons8-homero-simpson-30.svg)
 
 
 

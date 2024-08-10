@@ -1,6 +1,5 @@
 # 70065_3Entrega_Datach
 
-# Coder_70065_Atach_2Entrega
 
 Este proyecto permite a un usario ingresar  productos al carrito , visualizarlo mediante un modal, eliminar el producto o vaciar el contenido del carrito 
 adiconalemte ,permite realizar consulta de stock , paginacion y  cantidad de items a mostrar 

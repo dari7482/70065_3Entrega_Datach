@@ -52,9 +52,14 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
 
     ![carrito vacio al iniciar la app](animatedCollection/src/public/img/carrito_vacio.png)
    
-6. ![card en 0 ](animatedCollection/src/public/img/card_elemetos.png) aumentando las cantidades y presionando add to cart el producto se agrega al cart
-7. ![carrtio con items ](animatedCollection/src/public/img/carrito_con_items.png) las cantidades se reflejaran en el carrito, haciendo click , se puede ver todos los items
-8. ![modal con itesms ](animatedCollection/src/public/img/modal.png) las cantidades se reflejaran en el carrito , se puede eliminar de a uno o vaciar todo el carrito
+5. aumentando las cantidades y presionando add to cart el producto se agrega al cart
+  ![card en 0 ](animatedCollection/src/public/img/card_elemetos.png)
+
+7. las cantidades se reflejaran en el carrito, haciendo click , se puede ver todos los items
+  ![carrtio con items ](animatedCollection/src/public/img/carrito_con_items.png)
+
+9. las cantidades se reflejaran en el carrito , se puede eliminar de a uno o vaciar todo el carrito
+  ![modal con itesms ](animatedCollection/src/public/img/modal.png) 
    
 
 

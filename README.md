@@ -48,17 +48,21 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
 
 
 3. interactua con las tarjetas y el carrito para  guardar elementos , modificar la cantidad , o eliminar.
-4. al iniciar el carrito esta en 0
 
+
+4. al iniciar el carrito esta en 0
     ![carrito vacio al iniciar la app](animatedCollection/src/public/img/carrito_vacio.png)
    
 5. aumentando las cantidades y presionando add to cart el producto se agrega al cart
+   
   ![card en 0 ](animatedCollection/src/public/img/card_elemetos.png)
 
-7. las cantidades se reflejaran en el carrito, haciendo click , se puede ver todos los items
+6. las cantidades se reflejaran en el carrito, haciendo click , se puede ver todos los items
+
   ![carrtio con items ](animatedCollection/src/public/img/carrito_con_items.png)
 
-9. las cantidades se reflejaran en el carrito , se puede eliminar de a uno o vaciar todo el carrito
+7. las cantidades se reflejaran en el carrito , se puede eliminar de a uno o vaciar todo el carrito
+   
   ![modal con itesms ](animatedCollection/src/public/img/modal.png) 
    
 

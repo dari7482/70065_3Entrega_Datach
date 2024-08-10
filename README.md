@@ -51,7 +51,8 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
 
 
 4. al iniciar el carrito esta en 0
-    ![carrito vacio al iniciar la app](animatedCollection/src/public/img/carrito_vacio.png)
+
+   ![carrito vacio al iniciar la app](animatedCollection/src/public/img/carrito_vacio.png)
    
 5. aumentando las cantidades y presionando add to cart el producto se agrega al cart
    

@@ -55,6 +55,7 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
    ![carrito vacio al iniciar la app](animatedCollection/src/public/img/carrito_vacio.png)
    
 5. aumentando las cantidades y presionando add to cart el producto se agrega al cart
+  ### Importante!!! En caso de ingresar al carrito un artiuclo repetido , con el mismo ID , solo se modificara la cantidad ingresada en el carrito remplazandos las actuales, no duplica o suma las cantidades, 
    
   ![card en 0 ](animatedCollection/src/public/img/card_elemetos.png)
 
@@ -63,7 +64,7 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
   ![carrtio con items ](animatedCollection/src/public/img/carrito_con_items.png)
 
 7. las cantidades se reflejaran en el carrito , se puede eliminar de a uno o vaciar todo el carrito
-### Importante!!! En caso de ingresar al carrito un artiuclo repetido , con el mismo ID , solo se modificara la cantidad ingresada en el carrito , no duplica o suma las cantidas, si remplaza la  cantidas ingreasadas
+
    
   ![modal con itesms ](animatedCollection/src/public/img/modal.png) 
 

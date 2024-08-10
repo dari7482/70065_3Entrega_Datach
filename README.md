@@ -69,6 +69,11 @@ No se necesita configuración adicional. El proyecto está listo para usarse des
    
   ![modal con itesms ](animatedCollection/src/public/img/modal.png) 
 
+8.Pagination
+## prosionanado se prodra cambiar de pagina ,el default de items es 5 , se puede modificar en productos por pagina , para mostar los valores asc o dsc se debe ingresar el -1 o 1 y para el stock un valor numerico , para obtener resultado presionar aplicar
+![pagination ](animatedCollection/src/public/img/pagination.png) 
+
+
 
    
 
